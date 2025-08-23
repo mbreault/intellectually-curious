@@ -1,4 +1,4 @@
-# OEIS A000213 Tribonacci Numbers
+# OEIS A000213: Tribonacci numbers
 
 **Published:** May 05, 2025  
 **Duration:** 10m 36s  
@@ -8,7 +8,7 @@
 
 ## Description
 
-Learn about OEIS A000213 Tribonacci Numbers
+Delve into A000213, the Tribonacci numbers defined by Tn = Tn-1 + Tn-2 + Tn-3 with seeds 0,0,1 (and the common variant 1,1,1). Learn how the characteristic cubic r^3 = r^2 + r + 1 yields the Tribonacci constant r ≈ 1.839286755... and why Tn/Tn-1 tends to r. We'll survey how to compute them efficiently—from naive recursion to memoized and bottom-up dynamic programming, with space-optimized versions and fast matrix exponentiation for large n. We'll explore generalizations to n-bonacci sequences, closed-form Binet-like formulas via the roots of the characteristic equation, and a variety of identities and congruence properties (the sequence modulo m is periodic, with the period depending on the prime factors of m). Along the way we touch on a surprising geometric connection: a 3-way self-similar tiling fractal where the Tribonacci constant appears as an eigenvalue of its defining matrix. Perfect for number theory students and curious math explorers alike.
 
 ## Transcript
 

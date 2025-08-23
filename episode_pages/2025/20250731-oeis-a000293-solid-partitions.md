@@ -1,4 +1,4 @@
-# OEIS A000293 Solid Partitions
+# OEIS A000293: Solid partitions
 
 **Published:** July 31, 2025  
 **Duration:** 4m 50s  
@@ -8,7 +8,7 @@
 
 ## Description
 
-Learn about OEIS A000293 Solid Partitions
+Join us as we delve into A000293, the solid partitions: the 3D analogue of integer partitions where unit blocks pile in nondecreasing order as you move away from the origin along the X, Y, and Z axes. We’ll visualize simple cases, explain why the generating function remains notoriously elusive, and recount the historical mislabeling with A000294. Along the way we connect the problem to layers of partitions, graph theory, and models in physics, and spotlight the active current research on their asymptotic growth.
 
 ## Transcript
 

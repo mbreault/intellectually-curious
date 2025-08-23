@@ -1,14 +1,14 @@
-# OEIS A000243 Trees with Two Labeled Nodes 
+# OEIS A000243: Trees with two labeled nodes
 
 **Published:** June 08, 2025  
 **Duration:** 9m 32s  
 **Episode ID:** 17693013
 
-🎧 **[Listen to this episode](https://intellectuallycurious.buzzsprout.com/2529712/episodes/17693013-oeis-a000243-trees-with-two-labeled-nodes-)**
+🎧 **[Listen to this episode](https://intellectuallycurious.buzzsprout.com/2529712/episodes/17693013-oeis-a000243-trees-with-two-labeled-nodes)**
 
 ## Description
 
-Learn about OEIS A000243 Trees with Two Labeled Nodes 
+Explore A000243, the count of unrooted trees on n nodes with two distinct labeled vertices. We’ll cover the offset (n=2 corresponds to 1) and the early terms (1, 3, 9, 26, 75, 214, …), its connections to rooted trees and the broader A034799 table, and the multiple formulas and generating-function viewpoints that explain how these numbers are built. We’ll also touch on the historical context—from Sloan to Riordan—and note the surprising crosslinks, such as a match with counts of non-intersecting circles in the plane, illustrating how a single sequence sits at the crossroads of different combinatorial ideas.
 
 ## Transcript
 

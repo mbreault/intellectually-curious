@@ -1,4 +1,4 @@
-# OEIS A000179 Menage Numbers
+# OEIS A000179: Menage numbers
 
 **Published:** March 30, 2025  
 **Duration:** 13m 59s  
@@ -8,7 +8,7 @@
 
 ## Description
 
-Learn about OEIS A000179 Menage Numbers
+We dive into A000179, the Menage numbers, and how a simple seating puzzle blossoms into a web of combinatorial ideas. From the classic menage problem—alternating men and women around a circle with no spouses adjacent—to rook-theory interpretations on a wraparound board that forbids the main diagonal, the superdiagonal, and wrap-around corners, these numbers count the valid arrangements under tight constraints. We also see them appear in 3×n Latin rectangles where the second row is a cyclic shift of the first. We'll cover how to compute them via Tuchardt’s inclusion–exclusion formula, the recurrence relations that let you build the sequence term-by-term, and the historical threads—Lucas’s 1891 problem, Tate’s early work, and the broader connections to combinatorics and beyond.
 
 ## Transcript
 

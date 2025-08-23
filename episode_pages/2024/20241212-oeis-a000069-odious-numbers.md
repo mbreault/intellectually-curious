@@ -1,4 +1,4 @@
-# OEIS A000069 Odious Numbers
+# OEIS A000069: Odious numbers
 
 **Published:** December 12, 2024  
 **Duration:** 13m 35s  
@@ -8,7 +8,7 @@
 
 ## Description
 
-Learn about OEIS A000069 Odious Numbers
+Odious numbers are the nonnegative integers with an odd number of 1s in their binary expansion. In this episode we explore the surprising symmetries they reveal, including the Lamberk–Moser theorem that makes the odious and evil sets share identical multisets of pairwise sums, and the Thoomor sequence that marks their positions. We also touch on why powers of two are always odious, the status of Mersenne primes, the self-referential relation A(n) = 2A(n), and the odious-multiple bound, weaving together binary structure and additive number theory.
 
 ## Transcript
 

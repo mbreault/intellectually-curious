@@ -1,4 +1,4 @@
-# OEIS A000238 Number of Oriented Trees
+# OEIS A000238: Number of oriented trees
 
 **Published:** May 31, 2025  
 **Duration:** 10m 3s  
@@ -8,7 +8,7 @@
 
 ## Description
 
-Learn about OEIS A000238 Number of Oriented Trees
+An oriented tree is a rooted, unlabeled directed tree whose underlying undirected graph is a tree, with all edges directed away from the root. In A000238 we count these structures up to isomorphism (unlabeled); this differs from Cayley’s labeled-tree counts and from Catalan numbers for ordered trees. We’ll trace how the sequence 1, 1, 3, 8, 27, 91 arises and place it in the larger context of tree counting and its role in math and computer science.
 
 ## Transcript
 

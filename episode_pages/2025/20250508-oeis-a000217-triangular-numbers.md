@@ -1,4 +1,4 @@
-# OEIS A000217 Triangular Numbers
+# OEIS A000217: Triangular numbers
 
 **Published:** May 08, 2025  
 **Duration:** 11m 36s  
@@ -8,7 +8,7 @@
 
 ## Description
 
-Learn about OEIS A000217 Triangular Numbers
+In this Deep Dive we explore OEIS A000217, the triangular numbers T_n = n(n+1)/2. We trace their roots from the early geometry of the Pythagoreans to Gauss, and survey the many ways they appear in counting, geometry, and algebra. We’ll highlight core identities like T_n + T_{n+1} = (n+1)^2, plus a suite of combinatorial interpretations (handshakes, domino sets, etc.). We’ll also peek at generating functions and some deeper connections, including links to even perfect numbers via Mersenne primes.
 
 ## Transcript
 

@@ -1,14 +1,14 @@
-# OEIS A000124 Lazy Caterers Sequence
+# OEIS A000124: Lazy caterer's sequence
 
 **Published:** February 07, 2025  
 **Duration:** 9m 9s  
 **Episode ID:** 17692905
 
-🎧 **[Listen to this episode](https://intellectuallycurious.buzzsprout.com/2529712/episodes/17692905-oeis-a000124-lazy-caterers-sequence)**
+🎧 **[Listen to this episode](https://intellectuallycurious.buzzsprout.com/2529712/episodes/17692905-oeis-a000124-lazy-caterer's-sequence)**
 
 ## Description
 
-Learn about OEIS A000124 Lazy Caterers Sequence
+We unpack A000124, the lazy caterer's sequence (central polygonal numbers): the maximal number of pieces a pancake can be cut into with n straight cuts. We trace how its terms arise from 1 plus the sum of the first n integers, revealing ties to triangular numbers, binomial coefficients, and Pascal’s triangle. The episode also surveys its connections to graph theory, isomorphisms, zonohedra, and even advanced topics like Bruhat order on Coxeter groups and generating functions, illustrating the remarkable unity hidden in a deceptively simple counting puzzle.
 
 ## Transcript
 

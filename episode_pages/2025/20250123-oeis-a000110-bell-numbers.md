@@ -1,4 +1,4 @@
-# OEIS A000110 Bell Numbers
+# OEIS A000110: Bell numbers
 
 **Published:** January 23, 2025  
 **Duration:** 12m 15s  
@@ -8,7 +8,7 @@
 
 ## Description
 
-Learn about OEIS A000110 Bell Numbers
+Join us for a deep dive into the Bell numbers, B(n), the counts of partitions of an n-element set. We’ll uncover surprising connections in number theory—from multiplicative partitions of square-free numbers and equivalence relations to Stirling numbers of the second kind and even poetry rhyme schemes. We’ll also learn how to compute B(n) with the Bell triangle (Aitken’s array), recurrences, and Dabinsky-like formulas, plus a look at growth, asymptotics, and where these numbers show up in real problems.
 
 ## Transcript
 

@@ -1,4 +1,4 @@
-# OEIS A000071 Fibonacci Numbers Minus One
+# OEIS A000071: Fibonacci numbers minus one
 
 **Published:** December 14, 2024  
 **Duration:** 9m 30s  
@@ -8,7 +8,7 @@
 
 ## Description
 
-Learn about OEIS A000071 Fibonacci Numbers Minus One
+Join us for a deep dive into A000071, the Fibonacci numbers minus one. We trace its simple origin a(n) = F(n) − 1 (with a1 = 0, a2 = 0, a3 = 1, a4 = 2, a5 = 4, a6 = 7) and explore its rich structure: a_n = a_{n-1} + a_{n-2} + 1, the equivalent a_n = 2 a_{n-1} − a_{n-3}, and the n ≥ 4 closed form a_n = ⌈φ a_{n-1}⌉ where φ is the golden ratio. We show how this small tweak keeps the sequence tightly connected to Fibonacci, via φ and related identities, while spawning a constellation of interpretations. Look at the combinatorial faces—binary words of length n−3 avoiding 001, certain restricted permutations, set partitions, and even AVL trees. We also touch on its bell-ringing appearances and the broader network of OEIS cross-references linking Fibonacci, Lucas, and many other families. A000071 is a perfect example of how a tiny change can unlock a vast web of math connections.
 
 ## Transcript
 

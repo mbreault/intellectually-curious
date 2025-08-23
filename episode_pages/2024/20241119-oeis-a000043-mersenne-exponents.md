@@ -1,4 +1,4 @@
-# OEIS A000043 Mersenne Exponents
+# OEIS A000043: Mersenne Exponents
 
 **Published:** November 19, 2024  
 **Duration:** 6m 48s  
@@ -8,7 +8,7 @@
 
 ## Description
 
-Learn about OEIS A000043 Mersenne Exponents
+Explore OEIS A000043, the sequence of Mersenne exponents p for which 2^p − 1 is prime. We unpack the double-primality condition, why Mersenne primes matter in number theory, and the real-world effort behind GIMPS—the distributed search that hunts for ever-larger primes. We’ll revisit Euler’s famous missteps with p = 41 and p = 47, discuss the difficulty of primality testing at huge scales, and why the sequence is thought to be infinite even if we haven’t proven it yet. A compact map for curious minds to understand primes, computation, and the ongoing journey of mathematical discovery.
 
 ## Transcript
 

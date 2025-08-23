@@ -1,4 +1,4 @@
-# OEIS A000278 Quadratic Fibonacci Recurrence
+# OEIS A000278: Quadratic Fibonacci recurrence
 
 **Published:** July 16, 2025  
 **Duration:** 4m 11s  
@@ -8,7 +8,7 @@
 
 ## Description
 
-Learn about OEIS A000278 Quadratic Fibonacci Recurrence
+We explore A000278, defined by a(n) = a(n-1) + [a(n-2)]^2 with initial values a(0)=0, a(1)=1. The sequence starts 0, 1, 1, 2, 3, 7, 16, 65, and its nonlinear square term leads to explosive, doubly exponential growth. Remarkably, the growth splits by parity: the even- and odd-index subsequences follow two distinct asymptotic tracks, with constants around 1.66875 and 1.69306, respectively. Beyond growth, A000278 counts certain combinatorial structures—forests built under recursive rules—giving a concrete interpretation to these colossal numbers. This is a striking example of how a simple nonlinear recurrence can encode rich structure and reveal subtle long-term behavior.
 
 ## Transcript
 

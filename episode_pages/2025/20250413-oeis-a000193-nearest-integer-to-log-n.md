@@ -1,4 +1,4 @@
-# OEIS A000193 Nearest Integer to Log n
+# OEIS A000193: Nearest integer to log n
 
 **Published:** April 13, 2025  
 **Duration:** 3m 56s  
@@ -8,7 +8,7 @@
 
 ## Description
 
-Learn about OEIS A000193 Nearest Integer to Log n
+In this episode we zoom in on OEIS A000193—the nearest integer to the natural logarithm of n. Watch how the slow growth of ln(n) creates long plateaus and occasional jumps as n increases, and see how the sequence encodes rounding to the nearest integer in a discrete setting. We'll review the first terms, discuss why those plateaus occur, and explore what the entry teaches about connecting a smooth function to integers. We'll also tour the OEIS page, highlighting the practical code snippets (Maple, Mathematica, Pari/GP, Haskell, and more) that let you compute the sequence and experiment yourself. Plus, we’ll map how A000193 relates to other sequences through cross-references, and reflect on the community and the indispensable support of the OEIS Foundation that keeps this living library up to date. Finally, we’ll pose a thought‑provoking question: how would the plateau/jump pattern change if we used log bases other than e? A concise, student‑friendly window into computation, theory, and the interconnected world of integer sequences.
 
 ## Transcript
 

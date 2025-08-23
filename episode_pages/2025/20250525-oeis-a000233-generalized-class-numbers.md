@@ -1,4 +1,4 @@
-# OEIS A000233 Generalized Class Numbers
+# OEIS A000233: Generalized class numbers
 
 **Published:** May 25, 2025  
 **Duration:** 8m 41s  
@@ -8,7 +8,7 @@
 
 ## Description
 
-Learn about OEIS A000233 Generalized Class Numbers
+A focused tour of generalized class numbers (ray class groups) in algebraic number theory. We explain why the ordinary class number is insufficient when ramification enters, define the modulus and ray class groups, and show how class field theory ties generalized class groups to abelian extensions with controlled ramification. We discuss the Artin reciprocity map, the Hilbert class field as the unramified case, and the analytic side via Hecke L-series and their place in the Langlands program. Based on Milne's notes and OEIS discussions, aimed at number theory students who want to go beyond the basic class number.
 
 ## Transcript
 

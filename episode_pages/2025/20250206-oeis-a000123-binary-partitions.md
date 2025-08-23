@@ -1,4 +1,4 @@
-# OEIS A000123 Binary Partitions
+# OEIS A000123: Binary partitions
 
 **Published:** February 06, 2025  
 **Duration:** 15m 55s  
@@ -8,7 +8,7 @@
 
 ## Description
 
-Learn about OEIS A000123 Binary Partitions
+We explore A000123, the binary partition function: the number of ways to write n as a sum of powers of two with unlimited repetition. We unpack the recurrence A(n) = A(n−1) + A(⌊n/2⌋), the striking fact that every A(n) for n > 0 is even, and the elegant generating function ∏_{k≥0} 1/(1 − x^{2^k}). Along the way we connect to coin-change problems, Euler’s partitions, and the sequence’s rich history—from Churchhouse and Gupta to de Bruijn and Knuth—and discuss how its growth sits between polynomial and exponential, with generalizations and open questions to ponder.
 
 ## Transcript
 

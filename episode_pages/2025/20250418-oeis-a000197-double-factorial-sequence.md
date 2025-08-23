@@ -1,4 +1,4 @@
-# OEIS A000197 Double Factorial Sequence
+# OEIS A000197: Double factorial sequence
 
 **Published:** April 18, 2025  
 **Duration:** 6m 46s  
@@ -8,7 +8,7 @@
 
 ## Description
 
-Learn about OEIS A000197 Double Factorial Sequence
+Meet A000197, the double factorial sequence a(n) = n!!. Defined by a(0) = a(1) = 1 and a(n) = n · a(n−2), it splits into elegant even/odd cases with closed forms: for even n, a(n) = 2^{n/2} · (n/2)!; for odd n, a(n) = n! / (2^{(n−1)/2} · ((n−1)/2)!). This single rule drives hyper-exponential growth and yields rich structure: rapid size, 2-adic divisibility patterns, and the fact that the largest prime divisor of a(n) is the largest prime ≤ n. We’ll explore these properties, connect to related sequences, and share quick code snippets to experiment with the first terms.
 
 ## Transcript
 

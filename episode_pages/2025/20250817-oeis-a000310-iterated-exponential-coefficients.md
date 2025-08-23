@@ -1,4 +1,4 @@
-# OEIS A000310 Iterated Exponential Coefficients
+# OEIS A000310: Iterated exponential coefficients
 
 **Published:** August 17, 2025  
 **Duration:** 4m 9s  
@@ -8,7 +8,7 @@
 
 ## Description
 
-Learn about OEIS A000310 Iterated Exponential Coefficients
+A quick dive into A000310, the iterated exponential coefficients. We explore how the numbers grow rapidly (1, 4, 26, 234, 2696, …) and how their exponential generating function—a nested-log expression that mirrors the iterated exponentials—captures the whole sequence. We touch on the historical roots (Jay Ginsberg’s work from 1945) and Sloan’s authoritative treatment in the Handbook (1973) and Encyclopedia (1995), with Sloan listed as the page’s author. Practical generation tips appear in the OEIS entry via Mathematica and Pari/GP code, helping you push terms further. We also glimpse the web of related sequences (e.g., A039816, A003713) that situate A000310 within the broader combinatorial landscape. The takeaway: these patterns show how generating functions reveal structure behind fast-growing sequences and how the OEIS network links theory to computation.
 
 ## Transcript
 

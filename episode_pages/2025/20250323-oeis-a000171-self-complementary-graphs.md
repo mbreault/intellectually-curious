@@ -1,4 +1,4 @@
-# OEIS A000171 Self Complementary Graphs
+# OEIS A000171: Self-Complementary Graphs
 
 **Published:** March 23, 2025  
 **Duration:** 17m 16s  
@@ -8,7 +8,7 @@
 
 ## Description
 
-Learn about OEIS A000171 Self Complementary Graphs
+We explore self-complementary graphs—graphs that are isomorphic to their own complement. We’ll explain why a self-complementary graph on n vertices must have exactly n(n−1)/4 edges, which accounts for zeros in the sequence (e.g., n = 2, 3, 6, 7). We’ll look at concrete examples: the 4-vertex case is a path graph, and the 5-vertex case includes a cycle graph, each isomorphic to its complement. We’ll discuss why existence hinges on more than just the edge-count condition, touch on the diameter constraint (2 or 3), and connect these ideas to OEIS sequence A000171, which counts such graphs on n labeled vertices with initial terms 1, 0, 1, 2, 0, 6, 10, 36, ...
 
 ## Transcript
 

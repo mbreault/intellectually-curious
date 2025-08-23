@@ -1,4 +1,4 @@
-# OEIS A000105 Free Polyominoes
+# OEIS A000105: Free polyominoes
 
 **Published:** January 17, 2025  
 **Duration:** 13m 13s  
@@ -8,7 +8,7 @@
 
 ## Description
 
-Learn about OEIS A000105 Free Polyominoes
+We explore A000105, the number of free polyominoes with n cells. From the monomino up, the counts grow rapidly with no simple closed form, and Klarner's constant governs the asymptotic growth, currently bounded between 3.98 and 4.64. We'll discuss intriguing ideas like the conjecture that almost all large polyominoes are holy (contain holes), and what that might imply for structure and applications. The episode also surveys the clever algorithms used to enumerate free polyominoes, including representations via Gaussian integers that encode grid positions and help identify symmetries, illustrating the bridge between combinatorics, geometry, and number theory.
 
 ## Transcript
 

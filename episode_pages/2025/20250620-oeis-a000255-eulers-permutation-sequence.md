@@ -1,14 +1,14 @@
-# OEIS A000255 Eulers Permutation Sequence
+# OEIS A000255: Euler's permutation sequence
 
 **Published:** June 20, 2025  
 **Duration:** 12m 52s  
 **Episode ID:** 17693025
 
-🎧 **[Listen to this episode](https://intellectuallycurious.buzzsprout.com/2529712/episodes/17693025-oeis-a000255-eulers-permutation-sequence)**
+🎧 **[Listen to this episode](https://intellectuallycurious.buzzsprout.com/2529712/episodes/17693025-oeis-a000255-euler's-permutation-sequence)**
 
 ## Description
 
-Learn about OEIS A000255 Eulers Permutation Sequence
+Today on Deep Dive we explore OEIS A000255, Euler's permutation sequence. We trace its origin in Euler’s work on derangements and Euler’s difference table, and see how it counts permutations of n+2 elements that begin with 2 and have no fixed points. We’ll uncover two elegant connections to the derangement numbers A000166: (1) An = A000166(n) + A000166(n+1), a simple additive bridge between adjacent derangement counts, and (2) the interpretation as the number of derangements of n+2 that start with 2, linking Euler’s construction to a crisp combinatorial motif. We’ll also examine the recurrence An = An−1 + (n−1) An−2 and what it reveals about growth and structure. Tune in for concrete examples, the historical thread behind the notation, and why this sequence sits at a beautiful crossroads of classic derangements and Euler’s insight.
 
 ## Transcript
 

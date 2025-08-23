@@ -1,4 +1,4 @@
-# OEIS A000266 Permutations Without Transpositions
+# OEIS A000266: Permutations Without Transpositions
 
 **Published:** July 02, 2025  
 **Duration:** 14m 27s  
@@ -8,7 +8,7 @@
 
 ## Description
 
-Learn about OEIS A000266 Permutations Without Transpositions
+Welcome back to the dive into the OEIS. Today we zero in on A000266, the count of permutations of n with no transpositions in their cycle decomposition. That’s the same as counting all permutations whose cycles have length 1 or at least 3—no 2-cycles allowed. Here’s the quick map you’ll want for a deep, concise understanding.- What is a transposition here? In cycle language, a transposition is a 2-cycle: it swaps exactly two elements and leaves the rest alone. A permutation with no transpositions has every cycle of length 1 or length ≥3.- The S3 illustration (the aha moment): S3 has 6 permutations total. The identity (1)(2)(3) and the two 3-cycles (1 2 3) and (1 3 2) count. The three transpositions (1 2), (1 3), (2 3) do not. So A3 = 3. This concrete example shows how the no-2-cycles rule prunes the usual permutation landscape.- Exponential generating function (EGF): For permutations, the EGF is built by allowing cycle lengths. Allow all lengths except 2, so the EGF is  A(x) = exp( sum_{k≠2} x^k/k ) = exp(-ln(1-x) - x^2/2) = (1/(1-x)) · exp(-x^2/2).  The coefficient of x^n in A(x) gives a_n/n!, so this compact form encodes all a_n at once.- An explicit formula: a_n = n! · sum_{j=0}^{⌊n/2⌋} (-1)^j / (2^j j!).  This comes from expanding the EGF (the (1/(1-x)) piece contributes the all-1’s, while exp(-x^2/2) provides the alternating inclusion-exclusion terms that remove 2-cycles).  Quick check: a0=1, a1=1, a2=1, a3=3, a4=15, a5=75, a6=435, and so on.- A compact recurrence (useful for computation):  a_n = sum_{k∈{1} ∪ {3,...,n}} C(n-1, k-1) (k-1)! · a_{n-k} = sum_{k=1, k≠2}^n (n-1)!/(n-k)! · a_{n-k}.  Equivalently, a_n = (n-1)! · [ sum_{m=0}^{n-1} a_m / m! − a_{n-2}/(n-2)! ].  This expresses a_n in terms of smaller a_m’s, reflecting the way the cycle containing n can be chosen to have length 1 or ≥3.- Asymptotics: a_n ~ e^{-1/2} · n! as n → ∞. In other words, the proportion of permutations of n with no 2-cycles tends to e^{-1/2} ≈ 0.60653. This fits the heuristic that the number of 2-cycles in a random permutation is asymptotically Poisson with mean 1/2, so the chance of zero 2-cycles approaches e^{-1/2}.- Why this matters in combinatorics: This sequence is a clean example of the exponential formula at work (cycle lengths as building blocks) and shows how a simple restriction (no 2-cycles) yields a rich, tractable structure with a crisp closed form and clean asymptotics.If you’re a number theory or combinatorics student, A000266 is a compact demonstration of cycle-structure filtering, with a direct path from a concrete definition (no transpositions) to a precise generating function, an explicit count, a recurrence, and a clean asymptotic story.
 
 ## Transcript
 

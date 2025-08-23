@@ -1,4 +1,4 @@
-# OEIS A000055 Unlabeled Trees
+# OEIS A000055: Unlabeled trees
 
 **Published:** December 02, 2024  
 **Duration:** 12m 56s  
@@ -8,7 +8,7 @@
 
 ## Description
 
-Learn about OEIS A000055 Unlabeled Trees
+We explore A000055, the OEIS entry for the number of unlabeled trees with n nodes. From the tiny first terms to the explosive growth at larger n, we’ll glimpse generating functions and asymptotics, and uncover the web of connections to rooted trees (A000081), two-gonal two trees, and tree-perfect graphs. We’ll also touch on surprising links to sphere circle arrangements and binary partitions, illustrating why label-free tree structures sit at a crossroads of combinatorics, geometry, and graph theory.
 
 ## Transcript
 

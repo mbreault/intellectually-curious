@@ -1,4 +1,4 @@
-# OEIS A000183 Discordant Permutations
+# OEIS A000183: Discordant Permutations
 
 **Published:** April 03, 2025  
 **Duration:** 11m 46s  
@@ -8,7 +8,7 @@
 
 ## Description
 
-Learn about OEIS A000183 Discordant Permutations
+Today on Deep Dive we turn to A000183, the Discordant Permutations. This is the circular-constraint cousin of the classic derangement: count the ways to arrange the numbers 1 through n around a circle so that no one sits in their original seat or in a seat immediately next to it. Along the way we’ll connect this to familiar ideas like the problème des rencontres and the ménage problem, and we’ll see why even small n can yield surprisingly subtle counts. For larger n, there isn’t a simple closed form. The standard toolkit uses rook polynomials and the related hit polynomials to encode the forbidden placements (each i cannot go to i or i±1 modulo n) as a forbidden board. If r_k is the number of ways to place k non-attacking rooks on that board, then the number of valid permutations a(n) can be obtained by the inclusion-exclusion formula a(n) = sum_{k≥0} (-1)^k r_k (n − k)!. This is the general, computable route, but it does not collapse to a neat closed form in n. The OEIS page also discusses related variants, such as four-discordant permutations and connections to the ménage-type problems, where richer patterns (even Tribonacci-like behavior in certain leading coefficients) appear when the restrictions deepen. The upshot is that A000183 sits at a crossroads of derangements, circular arrangements, and rook-polynomial methods—beautiful examples of how a simple “no one in place or next to it” rule yields rich combinatorial structure. If you’d like, we can walk through a small n example or sketch how the rook-polynomial calculation unfolds for the circular rule.
 
 ## Transcript
 

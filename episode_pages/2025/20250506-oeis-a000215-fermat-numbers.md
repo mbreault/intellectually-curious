@@ -1,14 +1,14 @@
-# OEIS A000215 Fermat Numbers 
+# OEIS A000215: Fermat numbers
 
 **Published:** May 06, 2025  
 **Duration:** 20m 15s  
 **Episode ID:** 17692987
 
-🎧 **[Listen to this episode](https://intellectuallycurious.buzzsprout.com/2529712/episodes/17692987-oeis-a000215-fermat-numbers-)**
+🎧 **[Listen to this episode](https://intellectuallycurious.buzzsprout.com/2529712/episodes/17692987-oeis-a000215-fermat-numbers)**
 
 ## Description
 
-Learn about OEIS A000215 Fermat Numbers 
+An accessible tour of Fermat numbers F_n = 2^{2^n} + 1 (A000215): from Fermat’s prime guesses to Euler’s disproof with F5 = 4294967297 = 641 × 6700417. We discuss why any prime factor must satisfy special congruence conditions, the pairwise coprimality of Fermat numbers, and the big open questions about infinitely many Fermat primes and related arithmetic curiosities.
 
 ## Transcript
 

@@ -1,4 +1,4 @@
-# OEIS A000263 Partitions into Non Integral Powers
+# OEIS A000263: Partitions into non-integral powers
 
 **Published:** June 30, 2025  
 **Duration:** 11m 37s  
@@ -8,7 +8,7 @@
 
 ## Description
 
-Learn about OEIS A000263 Partitions into Non Integral Powers
+In this Deep Dive we explore OEIS A000263, the sequence counting partitions of n into non-integral powers. We’ll walk through the OEIS entry’s precise definition, notice the offset (A3 = 3, A4 = 14, A5 = 39, …), and review the first terms (3, 14, 39, 91, 173, 307, 502, …). The page shows how the values are computed, including sample Maple/Mathematica code that enumerates possible parts and uses floor-counting to tally valid pairs. We’ll also touch on the sequence’s historical thread: submitted by N. J. Sloan, tied to Sloan’s Handbook (1973) and the Encyclopedia of Integer Sequences (1995), and continued by later contributors. If you’re curious about how a combinatorial function gets catalogued in OEIS and how its computation is laid out, this episode walks through the entry’s structure and the ideas behind it.
 
 ## Transcript
 

@@ -1,4 +1,4 @@
-# OEIS A000270 Discordant Permutations
+# OEIS A000270: Discordant permutations
 
 **Published:** July 08, 2025  
 **Duration:** 10m 18s  
@@ -8,7 +8,7 @@
 
 ## Description
 
-Learn about OEIS A000270 Discordant Permutations
+We dive into OEIS A000270, the “Discordant permutations” sequence. We’ll unpack what it counts—permutations of {1, …, n+1} that are discordant with two reference permutations (the identity and a fixed-point plus an n-cycle)—and why this setup connects to the famous menage numbers (A000179) via a simple recurrence. We’ll also touch on the historical quirks, like the A0/A1 start values and why OEIS keeps a 0,1 entry to echo an old paper, plus a nod to the generating function and what these links reveal about the hidden structure in permutations and the role of OEIS as both math resource and historical archive.
 
 ## Transcript
 

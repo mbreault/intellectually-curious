@@ -1,14 +1,14 @@
-# OEIS A000256 Simple Triangulations of the Plane 
+# OEIS A000256: Simple triangulations of the plane
 
 **Published:** June 21, 2025  
 **Duration:** 17m 15s  
 **Episode ID:** 17693026
 
-🎧 **[Listen to this episode](https://intellectuallycurious.buzzsprout.com/2529712/episodes/17693026-oeis-a000256-simple-triangulations-of-the-plane-)**
+🎧 **[Listen to this episode](https://intellectuallycurious.buzzsprout.com/2529712/episodes/17693026-oeis-a000256-simple-triangulations-of-the-plane)**
 
 ## Description
 
-Learn about OEIS A000256 Simple Triangulations of the Plane 
+We explore A000256, the OEIS entry counting simple triangulations of the plane. We unpack what a “simple triangulation” means, why counting them is rich in geometry and combinatorics, and how these ideas connect to ears in polygons, Delaney triangulations, and the empty-circle condition. Along the way we touch computational methods and the role of triangulations in mesh generation and computational geometry.
 
 ## Transcript
 

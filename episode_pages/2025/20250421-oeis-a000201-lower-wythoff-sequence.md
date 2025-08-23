@@ -1,4 +1,4 @@
-# OEIS A000201 Lower Wythoff Sequence
+# OEIS A000201: Lower Wythoff sequence
 
 **Published:** April 21, 2025  
 **Duration:** 13m 18s  
@@ -8,7 +8,7 @@
 
 ## Description
 
-Learn about OEIS A000201 Lower Wythoff Sequence
+In this Deep Dive we unpack A000201—the lower Wythoff (Beatty) sequence. Defined by a(n) = floor(n·φ) with φ = (1 + √5)/2, it forms a companion pair with the upper Wythoff sequence b(n) = floor(n·φ²) (the “complementary” sequence). We explore how these two Beatty sequences partition the positive integers, why φ is the magic constant, and how the two lists up to infinity (1, 3, 4, 6, 8, …) and (2, 5, 7, 10, 13, …) interlock. We connect to Weishauf’s game: the losing positions are exactly the pairs (a(n), b(n)). Along the way, we touch on how these sequences relate to Sturmian words, and mention practical formulations (e.g., floor(n·φ)) and intuition behind the partition theorem of Beatty/Rayleigh. An episode for number theory fans who enjoy elegant partitions and game-theoretic links.
 
 ## Transcript
 

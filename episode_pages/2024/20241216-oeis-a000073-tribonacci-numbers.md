@@ -1,4 +1,4 @@
-# OEIS A000073 Tribonacci Numbers
+# OEIS A000073: Tribonacci numbers
 
 **Published:** December 16, 2024  
 **Duration:** 15m 47s  
@@ -8,7 +8,7 @@
 
 ## Description
 
-Learn about OEIS A000073 Tribonacci Numbers
+In this episode we explore the Tribonacci sequence, defined by summing the three previous terms with starts 0, 0, 1. We uncover its rich connections to ordered trees, compositions of numbers using parts 1–3, and binary sequences avoiding three consecutive zeros, all captured in OEIS A000073. We also peek at matrix representations, the Tribonacci constant that governs growth, and the assorted formulas and computational tools—from Benet-like expressions to trinomial-coefficient sums—that let you generate terms.
 
 ## Transcript
 

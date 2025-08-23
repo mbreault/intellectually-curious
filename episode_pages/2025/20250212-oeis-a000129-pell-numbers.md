@@ -1,4 +1,4 @@
-# OEIS A000129 Pell Numbers
+# OEIS A000129: Pell numbers
 
 **Published:** February 12, 2025  
 **Duration:** 17m 21s  
@@ -8,7 +8,7 @@
 
 ## Description
 
-Learn about OEIS A000129 Pell Numbers
+From the simple recurrence A0=0, A1=1 and An=2·A_{n-1}+A_{n-2} arise the Pell numbers, a family that quietly links continued fractions, square-root approximations of sqrt(2), and a web of geometric and number-theoretic ideas. They appear as the denominators in the best rational approximations to sqrt(2), connect to Pell-Lucas companions, square-triangle numbers via elegant identities, and even generate special Pythagorean triples. Along the way we glimpse primes in the sequence, rare perfect powers, NSW numbers, and compact matrix representations that let you compute both Pell and Pell-Lucas terms with a simple power. This episode sketches the rich ecosystem around a deceptively simple integer sequence.
 
 ## Transcript
 
