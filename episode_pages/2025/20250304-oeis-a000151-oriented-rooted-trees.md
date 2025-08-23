@@ -1,4 +1,4 @@
-# OEIS A000151 Oriented Rooted Trees
+# OEIS A000151: Oriented rooted trees
 
 **Published:** March 04, 2025  
 **Duration:** 12m 36s  
@@ -8,7 +8,7 @@
 
 ## Description
 
-Learn about OEIS A000151 Oriented Rooted Trees
+A deep dive into A000151, the enumeration of oriented rooted trees. We explore what distinguishes oriented rooted trees from ordinary trees, the two-color representation of edge directions, and the generating function and asymptotic growth A(n) ~ C D^n / n^32. We discuss cross-references to related sequences (A00238 rooted trees, A03855 series-reduced planted trees) and the self-convolution link to unlabeled rooted trees (A0757) via pairing two shapes, revealing the structural relationships that illuminate this rich area of combinatorics.
 
 ## Transcript
 

@@ -1,4 +1,4 @@
-# OEIS A000191 Generalized Tangent Numbers
+# OEIS A000191: Generalized tangent numbers
 
 **Published:** April 12, 2025  
 **Duration:** 11m 20s  
@@ -8,7 +8,7 @@
 
 ## Description
 
-Learn about OEIS A000191 Generalized Tangent Numbers
+In this Deep Dive we explore OEIS A000191: the generalized tangent numbers. We walk through their definition via generating functions for two related families, t_n^(k) and s_n^(k), which generalize the classical tangent and secant numbers. We’ll touch on when these numbers vanish based on parity, how they relate to the ordinary tangent numbers, and practical ways to compute them via recurrences or an explicit double-sum formula (Schott). We’ll also uncover their rich combinatorial connections: a Bell-polynomial representation, links to Stirling and Lah numbers, and relations to arc-tangent numbers and TQ-analogs. Along the way, you’ll see how these numbers sit at a crossroad of analysis and combinatorics, offering a compact window into the deep structure behind a single OEIS entry.
 
 ## Transcript
 

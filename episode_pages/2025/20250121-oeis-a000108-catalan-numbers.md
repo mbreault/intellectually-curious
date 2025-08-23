@@ -1,4 +1,4 @@
-# OEIS A000108 Catalan Numbers
+# OEIS A000108: Catalan numbers
 
 **Published:** January 21, 2025  
 **Duration:** 16m 12s  
@@ -8,7 +8,7 @@
 
 ## Description
 
-Learn about OEIS A000108 Catalan Numbers
+We explore the Catalan numbers C_n = binom(2n, n)/(n+1) (equivalently (2n)!/(n!(n+1)!)) and the remarkable variety of objects they count: balanced parentheses, Dyck paths, non-crossing partitions, and triangulations of polygons. We also touch on their recurrences and asymptotics (C_n ~ 4^n/(n^{3/2} sqrt(pi))), primality patterns (only C_2=2 and C_3=5 are prime), and deeper algebraic connections such as the Catalan monoid.
 
 ## Transcript
 

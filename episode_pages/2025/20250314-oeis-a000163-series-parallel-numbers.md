@@ -1,4 +1,4 @@
-# OEIS A000163 Series Parallel Numbers
+# OEIS A000163: Series-Parallel Numbers
 
 **Published:** March 14, 2025  
 **Duration:** 10m 31s  
@@ -8,7 +8,7 @@
 
 ## Description
 
-Learn about OEIS A000163 Series Parallel Numbers
+Join us as we unpack A000163, the series-parallel numbers: the count of distinct two-terminal resistor networks you can build with n equal resistors using only series and parallel connections. We reveal how the generating function for this sequence weaves in the partition numbers of A000084, illustrating a surprising bridge between circuit ideas and classic partition theory. We discuss how those numbers explode (the 500-term extension by Shanae Irvine), what this says about combinatorial growth, and why the big takeaway is that a tiny, local operation—placing resistors in series or in parallel—gives rise to a vast, structured universe of possibilities with applications ranging from electrical networks to biology and information spread. We close with open questions: is there a simpler closed form, and how can we push the computational frontiers even further.
 
 ## Transcript
 

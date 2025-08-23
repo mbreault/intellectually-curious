@@ -1,14 +1,14 @@
-# OEIS A000058 Sylvesters Sequence
+# OEIS A000058: Sylvester's sequence
 
 **Published:** December 03, 2024  
 **Duration:** 13m 21s  
 **Episode ID:** 17692842
 
-🎧 **[Listen to this episode](https://intellectuallycurious.buzzsprout.com/2529712/episodes/17692842-oeis-a000058-sylvesters-sequence)**
+🎧 **[Listen to this episode](https://intellectuallycurious.buzzsprout.com/2529712/episodes/17692842-oeis-a000058-sylvester's-sequence)**
 
 ## Description
 
-Learn about OEIS A000058 Sylvesters Sequence
+Sylvester’s sequence starts with 2 and is defined by a_{n+1} = (a_0 a_1 ... a_n) + 1. The first terms are 2, 3, 7, 43, 1807, …, and the growth is doubly exponential. A striking Egyptian-fraction fact: the reciprocals sum to 1, i.e., 1/2 + 1/3 + 1/7 + 1/43 + … = 1, with finite partial sums given by 1 − 1/(a_0 a_1 … a_n). The sequence is pairwise coprime, which yields a clean proof that there are infinitely many primes. Yet many mysteries remain: no term is known to be a perfect square, and complete factorization of later terms remains out of reach. Beyond number theory, Sylvester’s sequence appears in geometry, helping construct large families of Sasakian–Einstein manifolds in high dimensions, linking a simple recurrence to deep geometric structures. In this episode we explore the simple rule, the explosive growth, ancient-fraction connections, prime and open-problem puzzles, and the geometric applications all tied to this one sequence.
 
 ## Transcript
 

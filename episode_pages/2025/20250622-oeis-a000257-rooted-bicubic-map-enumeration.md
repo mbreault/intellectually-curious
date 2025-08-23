@@ -1,14 +1,14 @@
-# OEIS A000257 Rooted Bicubic Map Enumeration 
+# OEIS A000257: Rooted Bicubic Map Enumeration
 
 **Published:** June 22, 2025  
 **Duration:** 12m 35s  
 **Episode ID:** 17693027
 
-🎧 **[Listen to this episode](https://intellectuallycurious.buzzsprout.com/2529712/episodes/17693027-oeis-a000257-rooted-bicubic-map-enumeration-)**
+🎧 **[Listen to this episode](https://intellectuallycurious.buzzsprout.com/2529712/episodes/17693027-oeis-a000257-rooted-bicubic-map-enumeration)**
 
 ## Description
 
-Learn about OEIS A000257 Rooted Bicubic Map Enumeration 
+We explore OEIS sequence A000257, the Rooted Bicubic Map Enumeration. From rooted bicubic maps to Eulerian planar maps, indecomposable 1342-avoiding permutations, and Tamari-lattice intervals, we uncover how one sequence ties together diverse corners of combinatorics. We’ll also touch on its Catalan-number connection, generating functions, and its clean asymptotic growth, highlighting why these numbers serve as a shared fingerprint across multiple mathematical worlds.
 
 ## Transcript
 

@@ -1,4 +1,4 @@
-# OEIS A000268 Iterated Exponentials
+# OEIS A000268: Iterated Exponentials
 
 **Published:** July 06, 2025  
 **Duration:** 4m 33s  
@@ -8,7 +8,7 @@
 
 ## Description
 
-Learn about OEIS A000268 Iterated Exponentials
+A000268, the Iterated Exponentials sequence, explodes in size and beauty. Defined via its exponential generating function, it begins 1, 3, 15, 105, 947, 10,472, ... and reflects repeatedly applying exponentiation. Vladimir Kruchinin (2010) gave an explicit formula using Stirling numbers of the first kind, linking the sequence to rich combinatorics. The OEIS entry traces its history from Jay Ginsburg (1945) to Neil Sloan’s foundational references (1973, 1995) and notes its place as the first column of the triangular array A03915, with cross-references to related sequences like A03713. Sloan is listed as the author for the entry. In this episode we’ll unpack what the EGF means, why number theorists care about such rapid growth, and what it reveals about the connections between sequences, combinatorics, and iterated functions.
 
 ## Transcript
 

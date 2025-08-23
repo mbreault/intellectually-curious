@@ -1,4 +1,4 @@
-# OEIS A000182 Tangent Numbers
+# OEIS A000182: Tangent numbers
 
 **Published:** April 02, 2025  
 **Duration:** 17m 46s  
@@ -8,7 +8,7 @@
 
 ## Description
 
-Learn about OEIS A000182 Tangent Numbers
+We explore OEIS A000182, the tangent numbers: how they arise as the coefficients in the exponential generating function of tan x, and the rich combinatorial world they inhabit (Joyce trees, tremolo permutations, increasing labeled full binary trees, and certain skew standard Young tableaux). We also survey their connections to Euler and Bernoulli polynomials, zigzag numbers, and Hankel transforms. Finally, we touch on their modular properties—most terms after the first are even and they exhibit intriguing congruences—showing yet again how a single integer sequence threads through many areas of mathematics.
 
 ## Transcript
 

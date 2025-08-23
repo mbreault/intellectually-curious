@@ -1,4 +1,4 @@
-# OEIS A000032 Lucas Numbers
+# OEIS A000032: Lucas numbers
 
 **Published:** November 08, 2024  
 **Duration:** 17m 11s  
@@ -8,7 +8,7 @@
 
 ## Description
 
-Learn about OEIS A000032 Lucas Numbers
+In this episode we explore Lucas numbers (A000032): how they start with 2 and 1, their close relationship to Fibonacci numbers and the golden ratio, and the rich web of identities and patterns they satisfy. We’ll touch on Lucas primes, primes that appear in the Lucas sequence, and the intriguing Lucas-avoiding primes. We also discuss periodic behavior via Pisano periods, and glimpse how Lucas numbers appear in nature—such as in phyllotaxis—showing how these integers weave into the broader Fibonacci world.
 
 ## Transcript
 

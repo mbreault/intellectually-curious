@@ -1,4 +1,4 @@
-# OEIS A000283 Sum of Squares Recurrence
+# OEIS A000283: Sum of squares recurrence
 
 **Published:** July 21, 2025  
 **Duration:** 4m 19s  
@@ -8,7 +8,7 @@
 
 ## Description
 
-Learn about OEIS A000283 Sum of Squares Recurrence
+We explore the simple rule A_n = A_{n-1}^2 + A_{n-2}^2 with A_0 = 0, A_1 = 1. The early terms are tiny (0, 1, 1, 2, 5, 29, 866, 750797, ...) but the sequence explodes incredibly fast, essentially doubling the exponent at each step. Yet there’s a striking continuous shadow: A_n ≈ floor( A^{2^{n-1}} ) with A ≈ 1.23539. We unpack how a humble recurrence links discrete growth to a continuous approximation, touch on Benford’s Law, and note the computational challenges and tools used to experiment with these gigantic integers.
 
 ## Transcript
 

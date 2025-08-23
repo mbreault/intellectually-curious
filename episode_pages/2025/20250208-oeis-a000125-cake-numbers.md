@@ -1,4 +1,4 @@
-# OEIS A000125 Cake Numbers
+# OEIS A000125: Cake Numbers
 
 **Published:** February 08, 2025  
 **Duration:** 14m 49s  
@@ -8,7 +8,7 @@
 
 ## Description
 
-Learn about OEIS A000125 Cake Numbers
+The cake numbers count the maximum number of pieces a cube can be cut into with N planes. The nth cake number is N^3 + 5N + 6, with alternative expressions that highlight its binomial-coefficient structure and its link to the lazy caterer sequence via consecutive differences. Beyond 3D geometry, A000125 appears in several guises—from the number of distinct sums obtainable from ± a sequence of N consecutive integers to the count of maximal cliques in the n+1 triangular graph, all connected back to Pascal’s triangle. We’ll sketch the intuition behind the 3D cuts, explore the algebraic and combinatorial angles, and glance at the historical threads surrounding this elegant sequence.
 
 ## Transcript
 

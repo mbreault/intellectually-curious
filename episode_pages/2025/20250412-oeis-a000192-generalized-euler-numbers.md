@@ -1,4 +1,4 @@
-# OEIS A000192 Generalized Euler Numbers
+# OEIS A000192: Generalized Euler Numbers
 
 **Published:** April 12, 2025  
 **Duration:** 6m 5s  
@@ -8,7 +8,7 @@
 
 ## Description
 
-Learn about OEIS A000192 Generalized Euler Numbers
+In this episode we zoom in on OEIS A000192, Generalized Euler Numbers, and ask what the word “generalized” really means here. We explore how Euler’s ideas—series, partitions, and combinatorics—get extended, and how a generalized concept can be defined through generating functions, recurrences, or new combinatorial interpretations. We discuss how the OEIS entry threads these ideas together: the definitions, formulas, references, and keywords that hint at the origins and connections beyond the numbers themselves. We reflect on Euler’s method—hands-on calculation, pattern-finding, then rigour—and how it informs modern generalizations. Finally, we consider a bigger question: with Euler’s vast legacy and the OEIS’s web of ideas, how many other sequences hide deep connections to foundational concepts or to famous mathematicians? Join us for a breadcrumb trail that starts with A000192 and leads to many mathematical paths.
 
 ## Transcript
 
